@@ -3,8 +3,11 @@
 ## Simple todo web application 
 <br>
 - Written in Python Flask framwork.
+<br>
 - It takes title and description.
+<br>
 - and stores in database.
+<br>
 - can Add, Delete, and Update the TODO's
 
 ## Use :-
